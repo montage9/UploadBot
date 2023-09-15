@@ -1,6 +1,6 @@
 # Pyrogram Client Arguments
 API_ID = ''
-API_HASH = ''
+API_HASH = 'h'
 BOT_TOKEN = ''
 
 # Bot's Functionality Parameters
